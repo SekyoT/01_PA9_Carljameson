@@ -37,6 +37,12 @@ namespace _01_Carljameson_PA9
                     txt_Converted.Text = AmountConverted.ToString();
                 }
 
+                else if (rb_ringgit.Checked)
+                {
+                    AmountConverted = (UserInput * 3.01);
+                    txt_Converted.Text = AmountConverted.ToString();
+                }
+
                 else
                 {
                     txt_Converted.Text = "Please put a correct amount";
@@ -61,6 +67,16 @@ namespace _01_Carljameson_PA9
             txt_Converted.Clear();
             rb_us.Checked = false;
             rb_yen.Checked = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rb_Ringgit_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

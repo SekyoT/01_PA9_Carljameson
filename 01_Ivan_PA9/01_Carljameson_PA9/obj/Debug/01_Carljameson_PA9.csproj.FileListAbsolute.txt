@@ -8,3 +8,13 @@ C:\Users\carl4\OneDrive\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\
 C:\Users\carl4\OneDrive\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.csproj.CoreCompileInputs.cache
 C:\Users\carl4\OneDrive\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.exe
 C:\Users\carl4\OneDrive\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.pdb
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\bin\Debug\01_Carljameson_PA9.exe.config
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\bin\Debug\01_Carljameson_PA9.exe
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\bin\Debug\01_Carljameson_PA9.pdb
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.csprojAssemblyReference.cache
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\_01_Carljameson_PA9.Form1.resources
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\_01_Carljameson_PA9.Properties.Resources.resources
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.csproj.GenerateResource.cache
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.csproj.CoreCompileInputs.cache
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.exe
+C:\Users\18036729\Desktop\01_Carljameson_PA9\01_Carljameson_PA9\obj\Debug\01_Carljameson_PA9.pdb
